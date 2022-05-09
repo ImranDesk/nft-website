@@ -1,0 +1,15 @@
+@import url("_header.scss");
+@import url('_card.scss');
+@import url('_punklist.scss');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  min-height: 100vh;
+  max-width: 100vw;
+  padding:0 2rem;
+  background: black;
+}
